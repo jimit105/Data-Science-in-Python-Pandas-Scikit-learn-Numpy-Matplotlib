@@ -43,7 +43,6 @@
   * Splitting Data in Training and Testing Set
   * Normalize Data
 * Web Scraping
-  * Introduction- Web Scraping
   * What is Web Scraping
   * Web Scraping Process
   * Search Element by TagName and TagByClass
