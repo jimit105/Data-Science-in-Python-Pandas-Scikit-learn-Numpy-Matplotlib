@@ -34,7 +34,6 @@
   * Reading Excel and .m Matlab file
   * Read SQLite Database
   * Fetch Data from Remote file
-  * Fetch Data from Facebook API
 * Data Preprocessing
   * Introduction
   * Reading Data
