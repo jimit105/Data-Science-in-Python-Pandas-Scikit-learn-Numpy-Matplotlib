@@ -7,6 +7,8 @@
 
 ---
 
+Course Link: https://www.udemy.com/data-science-with-python-and-pandas
+
 ## Contents:
 * Data Analysis with Numpy
   * Introduction to Numpy
