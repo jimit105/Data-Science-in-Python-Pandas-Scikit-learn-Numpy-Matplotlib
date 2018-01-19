@@ -52,4 +52,3 @@ Course Link: https://www.udemy.com/data-science-with-python-and-pandas
   * Introduction
   * Rescale Data - Standardize Data
   * Normalize Data - Binarize Data
-  * Practical Activity
