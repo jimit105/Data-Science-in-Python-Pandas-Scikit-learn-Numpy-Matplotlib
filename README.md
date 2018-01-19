@@ -48,3 +48,8 @@ Course Link: https://www.udemy.com/data-science-with-python-and-pandas
   * Web Scraping Process
   * Search Element by TagName and TagByClass
   * Practical Activity
+* Data Transformation and Scaling Data
+  * Introduction
+  * Rescale Data - Standardize Data
+  * Normalize Data - Binarize Data
+  * Practical Activity
