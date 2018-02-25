@@ -1,4 +1,4 @@
-# Data Science with Python and Pandas, Numpy, Matplotlib (Udemy)
+# Data Science in Python: Pandas, Scikit-learn, Numpy, Matplotlib (Udemy)
 
 #### *Jimit Dholakia*
 
